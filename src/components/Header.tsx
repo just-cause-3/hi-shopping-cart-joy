@@ -1,4 +1,3 @@
-
 import { Link, useNavigate } from 'react-router-dom';
 import { ShoppingCart, LogOut, Menu, X, Home } from 'lucide-react';
 import { Button } from './ui/button';
